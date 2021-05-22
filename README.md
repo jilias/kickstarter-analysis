@@ -31,7 +31,7 @@ Cancellations of campaigns tend to occur more in summer with January being the o
 Summer also tends to have higher failures. At the same time, more campaigns tend to be successful.
 Summer tends to have more campaigns, while the rest of the year tends to have fewer campaigns. 
 
-![Outcomes_v_Goals](Resources/Outcomes_vs_Goals.png)
+![Theater Outcomes vs Launch Dates](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -40,6 +40,10 @@ The higher the goal amount, the more likey a Play campaign is to fail
 The smaller the goal amount, the more campaigns there tend to be.
 The smaller the campaign, the more successful it tends to be.
 Play campaigns tend to not have any cancellations.
+
+
+![Outcomes_v_Goals](Resources/Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered
 
