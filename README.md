@@ -31,6 +31,8 @@ Cancellations of campaigns tend to occur more in summer with January being the o
 Summer also tends to have higher failures. At the same time, more campaigns tend to be successful.
 Summer tends to have more campaigns, while the rest of the year tends to have fewer campaigns. 
 
+[Outcomes Based on Launch Date](Resources/Outcomes based on Launch Date.png)
+
 ### Analysis of Outcomes Based on Goals
 
 There are no cancellations for Play campaigns
